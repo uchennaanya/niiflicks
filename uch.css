@@ -29,18 +29,11 @@ header {
     padding: 0.5rem 2rem;
 }
 
-.play-store1 {
+.play-store {
     width: 48%;
     display: inline;
     height: 60px;
 }
-
-.play-store1 {
-    width: 48%;
-    display: inline;
-    height: 60px;
-}
-
 
 .main .card {
     display: flex;
