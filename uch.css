@@ -1,7 +1,7 @@
 body {
     background: url('./nbg.jpg');
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     color: #fff;
 }
 
