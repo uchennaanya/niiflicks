@@ -1,7 +1,8 @@
 body {
     background: url('./nbg.jpg');
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+    background: repeat no-repeat;
     color: #fff;
 }
 
@@ -32,7 +33,15 @@ header {
 .play-store1 {
     width: 48%;
     display: inline;
+    height: 60px;
 }
+
+.play-store1 {
+    width: 48%;
+    display: inline;
+    height: 60px;
+}
+
 
 .main .card {
     display: flex;
