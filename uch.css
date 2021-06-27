@@ -30,9 +30,9 @@ header {
 }
 
 .play-store {
-    width: 45%;
+    width: 48%;
     display: inline;
-    height: 35px;
+    /* height: 35px; */
 }
 
 
@@ -42,7 +42,7 @@ header {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 6rem;
+    padding: 6rem 2rem;
     height: 100px;
     border-bottom: 3px solid red;
 }
@@ -89,15 +89,13 @@ header {
     .play-store {
         width: 70%;
         display: inline;
-        height: 45px;
+        height: 50px;
     }
 
     .download-div {
         display: flex;
-    }
-
-    .download-btn-div{
-        background-color: transparent;
+        align-items: center;
+        justify-content: center;
     }
 
     .creator-btn a{
@@ -125,8 +123,8 @@ header {
         align-items: center;
         justify-content: center;
         text-align: center;
-        width: 25%;
-        padding: 6rem;
+        width: 35%;
+        padding: 6rem 3rem;
         border-radius: 4px;
         height: 100px;
         border-bottom: 3px solid red;
